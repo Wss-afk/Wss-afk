@@ -1,6 +1,13 @@
-<!-- Cabecera con Animación de Escritura -->
+<!-- Cabecera con Animación -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hola!+Soy+un+Desarrollador+Full+Stack;Experto+en+Java+y+Spring+Boot;Creando+experiencias+con+Vue.js;Siempre+aprendiendo..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hola!+Soy+Wss-afk;Desarrollador+Full+Stack;Experto+en+Java+y+Spring+Boot;Creando+experiencias+con+Vue.js..." alt="Typing SVG" />
+</div>
+
+<!-- Trofeos -->
+<div align="center">
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Wss-afk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <br/>
 </div>
 
 <h3 align="center">🚀 Sobre mí</h3>
@@ -30,18 +37,29 @@
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
+### 📊 Mis Estadísticas
 
 <div align="center">
-  <!-- Estadísticas generales -->
+  <!-- Stats Generales -->
   <img src="https://github-readme-stats.vercel.app/api?username=Wss-afk&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats" />
   
-  <!-- Lenguajes más usados -->
+  <!-- Racha (Streak) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wss-afk&theme=tokyonight&hide_border=true" height="180" alt="streak" />
+  
+  <br/>
+  
+  <!-- Lenguajes -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wss-afk&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages" />
 </div>
 
-<!-- Animación de la Serpiente (Snake) -->
-<!-- NOTA: Esto aparecerá como imagen rota hasta que configures el GitHub Action "snake.yml" y se ejecute una vez -->
+<br/>
+
+<!-- Contador de Visitas -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wss-afk&label=VISTAS+DEL+PERFIL&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</div>
+
+<!-- Animación Snake (Requiere Configuración de Action) -->
 <div align="center">
   <img src="https://github.com/Wss-afk/Wss-afk/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
