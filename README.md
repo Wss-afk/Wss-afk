@@ -8,6 +8,7 @@
 - 🔭 Actualmente estoy trabajando en mi TFG: **Chatroom Application**
 - 🌱 Estoy aprendiendo sobre **Arquitectura de Microservicios**
 - 💬 Pregúntame sobre **Java, Spring Security y WebSockets**
+- Pendiente de aprender **Python**
 
 ---
 
