@@ -1,13 +1,8 @@
-<!-- Cabecera con Animación -->
+<!-- Cabecera Estática y Elegante (No se rompe nunca) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hola!+Soy+Wss-afk;Desarrollador+Full+Stack;Experto+en+Java+y+Spring+Boot;Creando+experiencias+con+Vue.js..." alt="Typing SVG" />
-</div>
-
-<!-- Trofeos -->
-<div align="center">
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Wss-afk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-  <br/>
+  <h1>👋 Hola, soy Wss-afk</h1>
+  <h3>🚀 Desarrollador Full Stack | Java & Vue.js</h3>
+  <p><i>"Creando soluciones robustas con Spring Boot y experiencias fluidas con Vue"</i></p>
 </div>
 
 <h3 align="center">🚀 Sobre mí</h3>
@@ -59,7 +54,7 @@
   <img src="https://komarev.com/ghpvc/?username=Wss-afk&label=VISTAS+DEL+PERFIL&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </div>
 
-<!-- Animación Snake (Requiere Configuración de Action) -->
+<!-- Animación Snake -->
 <div align="center">
   <img src="https://github.com/Wss-afk/Wss-afk/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
