@@ -73,9 +73,9 @@
 
 <div align="center">
 
-| Backend | Seguridad | Tiempo real | Frontend | Base de datos | Automatización |
+| Backend | Seguridad | Tiempo real | Frontend | Base de datos |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Java + Spring Boot | Spring Security | WebSockets | Vue.js | MySQL | Python |
+| Java + Spring Boot | Spring Security | WebSockets | Vue.js | MySQL |
 
 </div>
 
