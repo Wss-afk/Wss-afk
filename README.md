@@ -64,33 +64,32 @@
 <div align="center">
   <h3>💬 Chatroom Application</h3>
   <p>
-    Aplicación de chat en tiempo real desarrollada como TFG, usando tecnologías modernas
-    para autenticación, comunicación instantánea y una experiencia fluida.
+    Aplicación de chat en tiempo real desarrollada como TFG, centrada en autenticación,
+    comunicación instantánea y una experiencia fluida para los usuarios.
   </p>
 </div>
 
-**Tecnologías destacadas:**
+<div align="center">
 
-- ☕ Java + Spring Boot
-- 🔐 Spring Security
-- 🌐 WebSockets
-- 🖥️ Vue.js
-- 🗄️ MySQL
-- 🐍 Python para aprendizaje, scripts y automatización
+| Backend | Seguridad | Tiempo real | Frontend | Base de datos |
+|:---:|:---:|:---:|:---:|:---:|
+| Java + Spring Boot | Spring Security | WebSockets | Vue.js | MySQL |
+
+</div>
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Wss-afk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Wss-afk&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wss-afk&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=00BFFF&text_color=C9D1D9" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Wss-afk&theme=github-dark-blue&hide_border=true&background=0D1117&ring=20C20E&fire=00BFFF&currStreakLabel=20C20E" alt="GitHub streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wss-afk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wss-afk&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=20C20E&text_color=C9D1D9" alt="Top languages" />
 </div>
 
 ---
@@ -98,7 +97,7 @@
 ## 🏆 Logros
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wss-afk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Wss-afk&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </div>
 
 ---
@@ -107,18 +106,4 @@
 
 <div align="center">
   <img src="https://github.com/Wss-afk/Wss-afk/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 👀 Visitas
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wss-afk&label=VISTAS+DEL+PERFIL&color=20C20E&style=for-the-badge" alt="Profile views" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:20C20E&height=120&section=footer" />
 </div>
