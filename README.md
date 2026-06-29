@@ -80,7 +80,6 @@
       <th>Tiempo real</th>
       <th>Frontend</th>
       <th>Base de datos</th>
-      <th>Automatización</th>
     </tr>
     <tr>
       <td>Java + Spring Boot</td>
@@ -88,7 +87,6 @@
       <td>WebSockets</td>
       <td>Vue.js</td>
       <td>MySQL</td>
-      <td>Python</td>
     </tr>
   </table>
 </div>
