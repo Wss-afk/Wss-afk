@@ -97,20 +97,20 @@
 
 <table>
   <tr>
-    <td align="center" width="220">
-      <strong>Commits</strong>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/En%20crecimiento-20C20E?style=for-the-badge&logo=github&logoColor=white" />
+    <td align="center" width="240">
+      <strong>Backend</strong>
+      <br/>
+      APIs REST, seguridad y lógica de negocio
     </td>
-    <td align="center" width="220">
-      <strong>Stack principal</strong>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Java%20%7C%20Spring%20Boot-00BFFF?style=for-the-badge&logo=springboot&logoColor=white" />
+    <td align="center" width="240">
+      <strong>Frontend</strong>
+      <br/>
+      Interfaces web con Vue.js
     </td>
-    <td align="center" width="220">
-      <strong>Aprendiendo</strong>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Microservicios%20%7C%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <td align="center" width="240">
+      <strong>Automatización</strong>
+      <br/>
+      Scripts y herramientas con Python
     </td>
   </tr>
 </table>
