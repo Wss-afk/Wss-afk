@@ -61,22 +61,36 @@
 
 ---
 
+---
+
 ## ⚡ Proyecto Principal
 
 <div align="center">
   <h3>💬 ConnectHub</h3>
+
   <p>
     Aplicación de chat en tiempo real desarrollada como TFG, centrada en autenticación,
     comunicación instantánea y una experiencia fluida para los usuarios.
   </p>
-</div>
 
-<div align="center">
-
-| Backend | Seguridad | Tiempo real | Frontend | Base de datos |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Java + Spring Boot | Spring Security | WebSockets | Vue.js | MySQL |
-
+  <table>
+    <tr>
+      <th>Backend</th>
+      <th>Seguridad</th>
+      <th>Tiempo real</th>
+      <th>Frontend</th>
+      <th>Base de datos</th>
+      <th>Automatización</th>
+    </tr>
+    <tr>
+      <td>Java + Spring Boot</td>
+      <td>Spring Security</td>
+      <td>WebSockets</td>
+      <td>Vue.js</td>
+      <td>MySQL</td>
+      <td>Python</td>
+    </tr>
+  </table>
 </div>
 
 ## 📊 Estadísticas de GitHub
