@@ -39,17 +39,17 @@
 
 <table>
   <tr>
-    <td align="center" width="220">
+    <td align="center" width="240">
       <strong>Backend</strong>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=java,spring,python,mysql" />
     </td>
-    <td align="center" width="220">
+    <td align="center" width="240">
       <strong>Frontend</strong>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap" />
     </td>
-    <td align="center" width="220">
+    <td align="center" width="240">
       <strong>Herramientas</strong>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
@@ -58,11 +58,13 @@
 </table>
 
 </div>
+
 ---
+
 ## ⚡ Proyecto Principal
 
 <div align="center">
-  <h3>💬 Chatroom Application</h3>
+  <h3>💬 ConnectHub</h3>
   <p>
     Aplicación de chat en tiempo real desarrollada como TFG, centrada en autenticación,
     comunicación instantánea y una experiencia fluida para los usuarios.
@@ -71,13 +73,11 @@
 
 <div align="center">
 
-| Backend | Seguridad | Tiempo real | Frontend | Base de datos |
-|:---:|:---:|:---:|:---:|:---:|
-| Java + Spring Boot | Spring Security | WebSockets | Vue.js | MySQL |
+| Backend | Seguridad | Tiempo real | Frontend | Base de datos | Automatización |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Java + Spring Boot | Spring Security | WebSockets | Vue.js | MySQL | Python |
 
 </div>
-
----
 
 ## 📊 Estadísticas de GitHub
 
