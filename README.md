@@ -82,22 +82,49 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wss-afk&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=00BFFF&text_color=C9D1D9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Wss-afk&theme=github-dark-blue&hide_border=true&background=0D1117&ring=20C20E&fire=00BFFF&currStreakLabel=20C20E" alt="GitHub streak" />
+
+<table>
+  <tr>
+    <td align="center" width="220">
+      <strong>Commits</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/En%20crecimiento-20C20E?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+    <td align="center" width="220">
+      <strong>Stack principal</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java%20%7C%20Spring%20Boot-00BFFF?style=for-the-badge&logo=springboot&logoColor=white" />
+    </td>
+    <td align="center" width="220">
+      <strong>Aprendiendo</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Microservicios%20%7C%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wss-afk&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=20C20E&text_color=C9D1D9" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=Wss-afk&theme=github-dark-blue&hide_border=true&background=0D1117&ring=20C20E&fire=00BFFF&currStreakLabel=20C20E" alt="GitHub streak" />
 </div>
 
 ---
 
-## 🏆 Logros
+## 🏆 Enfoque actual
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wss-afk&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
+
+| Área | Tecnologías |
+|:---:|:---|
+| Backend | Java, Spring Boot, Spring Security |
+| Frontend | Vue.js, JavaScript, HTML, CSS, Bootstrap |
+| Base de datos | MySQL |
+| Aprendiendo | Python, Microservicios, APIs REST |
+| Proyecto principal | Chatroom Application |
+
 </div>
 
 ---
