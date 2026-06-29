@@ -5,31 +5,31 @@
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Wss-afk;Desarrollador+Full+Stack;Java+%7C+Spring+Boot+%7C+Vue.js;Python+%7C+Backend+%7C+Microservicios;Construyendo+software+con+prop%C3%B3sito" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=750&lines=Hola%2C+soy+Wss-afk;Desarrollador+Full+Stack;Java+%7C+Spring+Boot+%7C+Vue.js;Python+%7C+APIs+REST+%7C+Automatizaci%C3%B3n;Construyendo+ConnectHub" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- Intro -->
-<h2 align="center">🚀 Sobre mí</h2>
+## 🚀 Sobre mí
 
 <div align="center">
   <p>
-    Soy un desarrollador Full Stack enfocado en crear aplicaciones limpias, seguras y escalables.
-    Actualmente trabajo en mi TFG: <strong>Chatroom Application</strong>, combinando backend robusto,
-    frontend moderno y comunicación en tiempo real.
+    Desarrollador Full Stack enfocado en crear aplicaciones web limpias, seguras y escalables.
+    Trabajo principalmente con <strong>Java, Spring Boot, Vue.js, MySQL y Python</strong>,
+    combinando backend robusto, interfaces modernas y automatización práctica.
   </p>
 </div>
 
 ---
 
-### 🧠 Actualmente
+## 🧩 Perfil técnico
 
-- 🔭 Trabajando en: **Chatroom Application**
-- 🌱 Aprendiendo: **Arquitectura de Microservicios**
-- 🛡️ Interesado en: **Spring Security, JWT y WebSockets**
-- 💬 Puedes preguntarme sobre: **Java, Spring Boot, Vue.js, Python y APIs REST**
-- 🎯 Objetivo: construir aplicaciones útiles, mantenibles y con buena experiencia de usuario
+- 🔭 Proyecto principal: **ConnectHub**
+- 🛡️ Backend con foco en **APIs REST, seguridad y lógica de negocio**
+- 🌐 Frontend con **Vue.js, JavaScript, HTML, CSS y Bootstrap**
+- 🐍 Python aplicado a **scripts, automatización y herramientas de apoyo**
+- 💬 Experiencia trabajando con **Spring Security, JWT, WebSockets y MySQL**
+- 🎯 Objetivo: construir software útil, mantenible y bien estructurado
 
 ---
 
@@ -61,8 +61,6 @@
 
 ---
 
----
-
 ## ⚡ Proyecto Principal
 
 <div align="center">
@@ -80,63 +78,53 @@
       <th>Tiempo real</th>
       <th>Frontend</th>
       <th>Base de datos</th>
+      <th>Soporte</th>
     </tr>
     <tr>
       <td>Java + Spring Boot</td>
-      <td>Spring Security</td>
+      <td>Spring Security + JWT</td>
       <td>WebSockets</td>
       <td>Vue.js</td>
       <td>MySQL</td>
+      <td>Python</td>
     </tr>
   </table>
 </div>
 
-## 📊 Estadísticas de GitHub
+---
+
+## 💼 Áreas de trabajo
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="240">
+    <td align="center" width="260">
       <strong>Backend</strong>
       <br/>
-      APIs REST, seguridad y lógica de negocio
+      APIs REST, autenticación, seguridad y arquitectura de servicios.
     </td>
-    <td align="center" width="240">
+    <td align="center" width="260">
       <strong>Frontend</strong>
       <br/>
-      Interfaces web con Vue.js
+      Interfaces web claras, responsivas y conectadas al backend.
     </td>
-    <td align="center" width="240">
+    <td align="center" width="260">
       <strong>Automatización</strong>
       <br/>
-      Scripts y herramientas con Python
+      Scripts con Python para tareas repetitivas y soporte al desarrollo.
     </td>
   </tr>
 </table>
 
 </div>
 
-<br/>
+---
+
+## 📊 Actividad en GitHub
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Wss-afk&theme=github-dark-blue&hide_border=true&background=0D1117&ring=20C20E&fire=00BFFF&currStreakLabel=20C20E" alt="GitHub streak" />
-</div>
-
----
-
-## 🏆 Enfoque actual
-
-<div align="center">
-
-| Área | Tecnologías |
-|:---:|:---|
-| Backend | Java, Spring Boot, Spring Security |
-| Frontend | Vue.js, JavaScript, HTML, CSS, Bootstrap |
-| Base de datos | MySQL |
-| Aprendiendo | Python, Microservicios, APIs REST |
-| Proyecto principal | Chatroom Application |
-
 </div>
 
 ---
@@ -145,4 +133,19 @@
 
 <div align="center">
   <img src="https://github.com/Wss-afk/Wss-afk/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 👀 Visitas
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wss-afk&label=VISTAS+DEL+PERFIL&color=20C20E&style=for-the-badge" alt="Profile views" />
+</div>
+
+<br/>
+
+<!-- Footer -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:20C20E&height=120&section=footer" />
 </div>
